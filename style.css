@@ -1,0 +1,29 @@
+.nav-subscribe-anchor{
+    text-decoration: underline;
+    color:#6c757d;
+}
+
+.nav-anchor{
+    text-decoration: underline;
+    font-size: 30px;
+    color:black;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    font-weight: 900;
+}
+.nav-anchor:hover{
+    text-decoration: none;
+    color:black;
+}
+.fa-search{
+    margin-top: 10px;
+    font-size: 26px;
+    color: #6c757d;
+    margin-right: 12px;
+}
+.nav-item{
+    padding-left:20px;
+}
+.nav-item a{
+    text-decoration: underline;
+    font-size: 16px;
+}
