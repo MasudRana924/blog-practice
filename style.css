@@ -27,3 +27,52 @@
     text-decoration: underline;
     font-size: 16px;
 }
+#container-bg-dark{
+    background-color:#212529;
+    height: 400px;
+    
+    padding-left: 20px;
+    justify-content: center;
+}
+#container-bg-dark h1,p,a{
+    color:white;
+  
+}
+#container-bg-dark h1{
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+#container-bg-dark p{
+    font-size: 20px;;
+}
+#container-bg-dark a{
+    font-size:22px;
+}
+.blog-info{
+    
+}
+.blog-info a{
+  color:blue;
+}
+.blog-info p{
+    color: black;
+    
+}
+.blog-info h4{
+    font-weight: bold;
+    padding-top:8px;
+}
+.blog-info img{
+    width:250px;
+    height:250px;
+    
+}
+#left-side{
+    padding-right: 5px;
+}
+
+
+
+
